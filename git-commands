@@ -7,3 +7,6 @@ git add <fichier a inclure, * inclus tout>
 git commit -m <message>
 git push
 
+Commande de pull:
+
+git pull
