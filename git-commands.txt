@@ -1,0 +1,9 @@
+Cloner un repository :
+git clone <repo>
+
+Commandes de push:
+
+git add <fichier a inclure, * inclus tout>
+git commit -m <message>
+git push
+
