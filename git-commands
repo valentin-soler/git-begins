@@ -10,3 +10,8 @@ git push
 Commande de pull:
 
 git pull
+
+Commande pour crée une branche et basculer dans cette dernière :
+
+git checkout -b <nom de la branche> (cela la crée localement)
+git push origin <nom de la branche> (cela l'envoie sur GitHub)
