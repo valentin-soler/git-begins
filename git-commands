@@ -11,7 +11,14 @@ Commande de pull:
 
 git pull
 
-Commande pour crée une branche et basculer dans cette dernière :
+Commande pour crée une branche depuis l'origine et basculer dans cette dernière :
 
 git checkout -b <nom de la branche> (cela la crée localement)
 git push origin <nom de la branche> (cela l'envoie sur GitHub)
+
+Crée juste une branche : 
+git branch <nom de la branche>
+
+Basculer dans une branche 
+
+git checkoout <nom de la branche>
